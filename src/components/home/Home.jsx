@@ -2,7 +2,7 @@ import "./home.scss";
 import image from "../../assets/test.svg";
 import image2 from "../../assets/asdaxxx.png";
 import cv from '../../assets/CVHenry.pdf'
-import Typed from 'react-typed';
+/* import Typed from 'react-typed'; */
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
           <h1>
             Henry <span className="spancarrillo">Carrillo.</span>
           </h1>
-          <Typed
+         {/*  <Typed
            strings={[
             'FullStack Web',
             'Desing Web']}
@@ -21,7 +21,7 @@ const Home = () => {
             backSpeed={50}
             loop 
             className="typed"
-          ></Typed>
+          ></Typed> */}
           <p>
             I’m Tanvir, a creative Product Designer. I’ve been helping
             businesses to solve their problems with my design for 2 years.
