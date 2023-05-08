@@ -2,12 +2,20 @@
   position: relative;
   display: flex;
   flex-direction: column;
-
+  
   .shapes {
     z-index: -1;
     position: absolute;
     top: 0;
     right: 0;
+  }
+
+  .circles{
+    z-index: -2;
+    position: absolute;
+    top: 0;
+    left:-10px;
+    
   }
 
   .textcontainer {

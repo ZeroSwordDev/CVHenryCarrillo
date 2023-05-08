@@ -9,6 +9,7 @@ import {
 } from "../../data";
 import PortafolioList from "../portafolioList/PortafolioList";
 import CardView from "../cardview/CardView";
+import image from "../../assets/test2.svg"
 
 const Portafolio = () => {
   const [activebtn, setActivebtn] = useState("web");
@@ -50,6 +51,7 @@ const Portafolio = () => {
 
   return (
     <div className="folio" id="portafolio">
+      {/* <img className="imgporfafolio" src={image} alt="" /> */}
       <div className="containerportafolio">
         <div className="top">
           <h1 className="titlefolio">Portafolio</h1>

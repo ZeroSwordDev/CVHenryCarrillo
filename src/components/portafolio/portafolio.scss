@@ -4,8 +4,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  
-
+  position: relative;
+  background-image: url(../../assets/test2.svg);
+ background-repeat:no-repeat ;
+ background-position:left;
+ background-size: contain;
   .containerportafolio {
     margin-bottom: 40px;
     width: 70%;

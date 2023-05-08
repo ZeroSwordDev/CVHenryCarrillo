@@ -1,5 +1,6 @@
 import "./home.scss";
 import image from "../../assets/test.svg";
+import image3 from "../../assets/test.png";
 import image2 from "../../assets/asdaxxx.png";
 import cv from '../../assets/CVHenry.pdf'
 /* import Typed from 'react-typed'; */
@@ -8,6 +9,7 @@ const Home = () => {
   return (
     <div className="Home" id="home">
       <img className="shapes" src={image} alt="" />
+      <img className="circles" src={image3} alt="" />
       <div className="textcontainer">
         <div className="left">
           <h1>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="768" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0db760;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Mesa_de_trabajo_1" data-name="Mesa de trabajo 1">
+    <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M1781.24,670.094s-212.44,132.195-209-45.991c1.06-54.887,57.6-136.116,82.46-221.256,55.83-191.261,97.75-432.263-1154.488-408.7l-105-123.995,813-23.037,662,29.97s-3.68,332.2-14.99,362S1781.24,670.094,1781.24,670.094Z" transform="translate(-342)"/>
+  </g>
+</svg>
